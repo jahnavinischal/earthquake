@@ -6,8 +6,8 @@ A machine learning-powered web application that predicts the likelihood of earth
 
 *Screenshot of the Streamlit Web App Interface*
 
-*You may access the deployed app through the link given below:*
-https://earthquake-magnitude-predictor1.streamlit.app/
+**You may access the deployed app through the link given below:**
+[Streamlit](https://earthquake-magnitude-predictor1.streamlit.app/)
 
 ## 📊 Dataset
 
@@ -36,19 +36,23 @@ The dataset used spans **30 years** of global earthquake data, sourced from [Kag
    cd earthquake-prediction
 
 2. Install the required packages:
-  pip install -r requirements.txt
 
-3. Run the Streamlit web app:
+   ```bash
+     pip install -r requirements.txt
+
+4. Run the Streamlit web app:
+
+   ```bash
    streamlit run index.py
    
 If .pkl model files are not already present, they will be generated automatically on the first run.
 
-#🧪 Usage
+## 🧪 Usage
 -Launch the app using the command above.
 -Input the necessary parameters via the interface.
 -View the predicted earthquake outcome and other related insights.
 
 
-#📎 Notes
+## 📎 Notes
 a. Make sure the dataset is placed in the correct directory if required.
 b. The model might take a few moments to generate if .pkl files don’t exist.
