@@ -11,7 +11,7 @@ https://earthquake-magnitude-predictor1.streamlit.app/
 
 ## 📊 Dataset
 
-The dataset used spans **30 years** of global earthquake data, sourced from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023)) 
+The dataset used spans **30 years** of global earthquake data, sourced from [Kaggle](https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023)
 
 ## 🧠 Technologies Used
 
@@ -48,11 +48,11 @@ The dataset used spans **30 years** of global earthquake data, sourced from [Kag
 If .pkl model files are not already present, they will be generated automatically on the first run.
 
 ## 🧪 Usage
--Launch the app using the command above.
--Input the necessary parameters via the interface.
--View the predicted earthquake outcome and other related insights.
+- Launch the app using the command above.
+- Input the necessary parameters via the interface.
+- View the predicted earthquake outcome and other related insights.
 
 
 ## 📎 Notes
-a. Make sure the dataset is placed in the correct directory if required.
-b. The model might take a few moments to generate if .pkl files don’t exist.
+- Make sure the dataset is placed in the correct directory if required.
+- The model might take a few moments to generate if .pkl files don’t exist.
