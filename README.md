@@ -7,7 +7,7 @@ A machine learning-powered web application that predicts the likelihood of earth
 *Screenshot of the Streamlit Web App Interface*
 
 **You may access the deployed app through the link given below:**
-[Streamlit](https://earthquake-magnitude-predictor1.streamlit.app/)
+https://earthquake-magnitude-predictor1.streamlit.app/
 
 ## 📊 Dataset
 
