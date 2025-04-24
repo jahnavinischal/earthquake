@@ -1,7 +1,3 @@
-This project aims to predict earthquake magnitude using machine learning algorithms on a 30 year long dataset. 
-You may access the deployed app through given link:
-https://earthquake-magnitude-predictor1.streamlit.app/
-
 # 🌍 Earthquake Prediction Web App
 
 A machine learning-powered web application that predicts the likelihood of earthquakes based on a 30-year historical dataset. Built using **Streamlit**, this app leverages data-driven models to offer quick predictions and insights.
@@ -9,6 +5,9 @@ A machine learning-powered web application that predicts the likelihood of earth
 ![image](https://github.com/user-attachments/assets/e39f33d8-c7dc-49ac-9c57-a59613623fba)
 
 *Screenshot of the Streamlit Web App Interface*
+
+*You may access the deployed app through the link given below:*
+https://earthquake-magnitude-predictor1.streamlit.app/
 
 ## 📊 Dataset
 
